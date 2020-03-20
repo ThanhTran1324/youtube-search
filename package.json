@@ -1,6 +1,6 @@
 {
   "name": "videos",
-  "homepage":"https://thanhtran1324.github.io/youtube-search",
+  "homepage": "https://thanhtran1324.github.io/youtube-search",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +8,7 @@
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.2"
+    "react-scripts": "^3.4.0"
   },
   "scripts": {
     "predeploy": "npm run build",
